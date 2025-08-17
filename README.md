@@ -1,4 +1,4 @@
-# Neural Networks
+# Deep Learning
 
 This project implements **one-layer and two-layer neural networks** for **wine quality regression** and a **CNN for MNIST digit classification**, trained with stochastic gradient descent (SGD). It includes feature normalization, loss evaluation, and visualization utilities.
 
